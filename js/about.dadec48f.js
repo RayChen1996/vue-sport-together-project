@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_sport_together_project"]=self["webpackChunkvue_sport_together_project"]||[]).push([[443],{862:function(t,e,r){r.r(e),r.d(e,{default:function(){return p}});var n=r(252);const u={class:"about"};function o(t,e){return(0,n.wg)(),(0,n.iD)("div",u)}var c=r(744);const s={},a=(0,c.Z)(s,[["render",o]]);var p=a}}]);
+//# sourceMappingURL=about.dadec48f.js.map
